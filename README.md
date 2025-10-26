@@ -33,7 +33,7 @@ Focuses on creating **KPI-driven scorecards** with calculated fields, trend anal
 
 ---
 
-### 🌎 [Regional Sales Scorecard Dashboard](./RegionalSalesScorecard/RegionalSalesScorecard_Dashboard.twbx)
+### 🌎 [Regional Sales Scorecard Dashboard](https://github.com/sarabeshir/tableau-portfolio/tree/main/RegionalSalesScorecard)
 Analyzes regional sales performance and geographic distribution to support business decision-making.  
 Includes interactive maps, comparative KPIs, and regional breakdowns for executive review.  
 **Skills:** Geographic maps, trend charts, dual-axis analysis, filters.  
