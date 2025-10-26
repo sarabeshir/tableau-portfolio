@@ -25,7 +25,7 @@ Created as part of a **guided tutorial project** to strengthen Tableau layout, f
 
 ---
 
-### 💼 [Category Scorecard Dashboard](./CategoryScorecard/CategoryScorecard_Dashboard.twbx)
+### 💼 [Category Scorecard Dashboard](https://github.com/sarabeshir/tableau-portfolio/tree/main/CategoryScorecard)
 Visualizes category-level performance metrics for sales and profit.  
 Focuses on creating **KPI-driven scorecards** with calculated fields, trend analysis, and dynamic filters.  
 **Skills:** KPI cards, parameters, category-level performance analysis.  
