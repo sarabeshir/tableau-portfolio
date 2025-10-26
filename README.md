@@ -17,7 +17,7 @@ Each project showcases a different side of business analytics — customer senti
 
 ## 📂 Projects
 
-### 🛫 [British Airways Reviews Dashboard](./BritishAirways_Reviews/BritishAirways_Reviews_Dashboard.twbx)
+### 🛫 [British Airways Reviews Dashboard](https://github.com/sarabeshir/tableau-portfolio/tree/main/BritishAirways_Reviews)
 An interactive customer sentiment dashboard analyzing British Airways reviews to identify service trends and satisfaction levels.  
 Created as part of a **guided tutorial project** to strengthen Tableau layout, filters, and storytelling skills.  
 **Skills:** Parameters, interactivity, sentiment mapping.  
